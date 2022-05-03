@@ -283,6 +283,9 @@
     }
     .content-wrapper .content .feedback-form form {
    width: 70%;
+   }
+  .content-wrapper .content .about-form .about{
+    width: 100%;
 }
 }
 
@@ -311,6 +314,9 @@
     }
     .content-wrapper .content .feedback-form form {
    width: 100%;
+}
+ .content-wrapper .content .about-form .about{
+    width: 100%;
 }
 }
 
